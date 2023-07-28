@@ -10,8 +10,7 @@
 - - :speech_balloon: How to reach me **nazly731@hotmail.com**
 
 - I’m currently working on:
-    - :earth_americas:<a href= target="_blank"><img align="center" src= height="30" width="30"></a>
-    - :convenience_store: <a href="https://www.koders.cl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/koders-white.png" height="30" width="70"></a> 
+ 
 <h3 align="left">Languages and Tools :bowtie::</h3>
     <p align="left"> <a href="#" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"
