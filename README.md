@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Nazly SotoLabarca </h1>
-<h3 align="center">Java Developer Trainee, from Chile </h3>
+<h3 align="center">Developer Full Stack Java Trainee, from Chile </h3>
 
 ### About Me:
 
