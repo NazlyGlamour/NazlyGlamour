@@ -8,9 +8,9 @@
 - 👨‍🏫 Yoga Teacher
 
 - - :speech_balloon: How to reach me **nazly731@hotmail.com**
-- :link: Connect with me: <a href="https://linkedin.com/in/fkessib" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Jaime%20Reyes" height="30" width="25"/></a>
+
 - I’m currently working on:
-    - :earth_americas:<a href="https://www.recoders.cl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Kessillox/firma/master/logo-transparente.png" height="30" width="30"></a>
+    - :earth_americas:<a href= target="_blank"><img align="center" src= height="30" width="30"></a>
     - :convenience_store: <a href="https://www.koders.cl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/koders-white.png" height="30" width="70"></a> 
 <h3 align="left">Languages and Tools :bowtie::</h3>
     <p align="left"> <a href="#" target="_blank"> <img
