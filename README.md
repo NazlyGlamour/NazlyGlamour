@@ -11,7 +11,7 @@
 
 - I’m currently working on:
  
-<h3 align="left">Languages and Tools :bowtie::</h3>
+<h3 align="left">Languages and Tools : </h3>
             <p align="left"> <a href="#" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"
                 width="50" height="40" margin-right="3px"/> </a> <a href="https://spring.io/" target="_blank"> <img
